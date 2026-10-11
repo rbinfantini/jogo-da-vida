@@ -1,0 +1,12 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+
+# Dev-C++ / IDE leftovers
+*.layout
+*.dev
+Makefile.win
+
+# Save file created by the program
+geracoes.txt
