@@ -41,12 +41,3 @@ The game state is kept in three linked lists (live cells, dead neighbors, next g
 | `JV-IJR-Controller` | Menu loop and simulation control |
 | `JV-IJR-Projeto.cpp` | Entry point (`main`) |
 
-The full report (in Portuguese, with the operator manual and technical appendix) is in [`docs/`](docs/Relatorio_JogoDaVida.pdf).
-
-## Authors
-
-Group IJR, November 2025:
-
-- Igor Guimarães Elias
-- João Batistella da Costa
-- Rafael Barros Infantini
